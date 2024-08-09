@@ -1,0 +1,32 @@
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\appsettings.json
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Desafio Blip.exe
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Desafio Blip.deps.json
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Desafio Blip.runtimeconfig.json
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Desafio Blip.dll
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Desafio Blip.pdb
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SQUADRA\Desktop\Desafio Blip\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.csproj.AssemblyReference.cache
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.AssemblyInfoInputs.cache
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.AssemblyInfo.cs
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\staticwebassets\msbuild.Desafio Blip.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\staticwebassets\msbuild.build.Desafio Blip.props
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Desafio Blip.props
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Desafio Blip.props
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\scopedcss\bundle\Desafio Blip.styles.css
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio .D1B2CD67.Up2Date
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.dll
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\refint\Desafio Blip.dll
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.pdb
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\Desafio Blip.genruntimeconfig.cache
+C:\Users\SQUADRA\Desktop\Desafio Blip\obj\Debug\net8.0\ref\Desafio Blip.dll
